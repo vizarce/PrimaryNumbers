@@ -1,7 +1,6 @@
 package com.interf.defandstatmethods;
 
 /****************************************************************************
- * @author vizarce
  * @version 1.0.0
  * @category PNI - <b>Prime Number</b>  (<b>PN</b>) Interface
  * @see A <b>PN</b> is a <b>N</b> that is <i>divisible</i> 
